@@ -19,7 +19,7 @@
     margin-top: 20px;
 }
 
-.big-card_description > p {
+.big-card_description > p > a {
     color: gray;    
 }
 
